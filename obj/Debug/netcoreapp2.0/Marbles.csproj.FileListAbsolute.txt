@@ -1,0 +1,10 @@
+/Users/yanawilkins/Documents/dotnet/Marbles/bin/Debug/netcoreapp2.0/Marbles.deps.json
+/Users/yanawilkins/Documents/dotnet/Marbles/bin/Debug/netcoreapp2.0/Marbles.runtimeconfig.json
+/Users/yanawilkins/Documents/dotnet/Marbles/bin/Debug/netcoreapp2.0/Marbles.runtimeconfig.dev.json
+/Users/yanawilkins/Documents/dotnet/Marbles/bin/Debug/netcoreapp2.0/Marbles.dll
+/Users/yanawilkins/Documents/dotnet/Marbles/bin/Debug/netcoreapp2.0/Marbles.pdb
+/Users/yanawilkins/Documents/dotnet/Marbles/obj/Debug/netcoreapp2.0/Marbles.csproj.CoreCompileInputs.cache
+/Users/yanawilkins/Documents/dotnet/Marbles/obj/Debug/netcoreapp2.0/Marbles.AssemblyInfoInputs.cache
+/Users/yanawilkins/Documents/dotnet/Marbles/obj/Debug/netcoreapp2.0/Marbles.AssemblyInfo.cs
+/Users/yanawilkins/Documents/dotnet/Marbles/obj/Debug/netcoreapp2.0/Marbles.dll
+/Users/yanawilkins/Documents/dotnet/Marbles/obj/Debug/netcoreapp2.0/Marbles.pdb
